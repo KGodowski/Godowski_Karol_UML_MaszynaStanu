@@ -12,8 +12,8 @@
 			<_id type="a">GUID dd941167-1b7e-45fd-9d0f-ba0811f5381d</_id>
 			<_myState type="a">139264</_myState>
 			<_name type="a">DefaultComponent</_name>
-			<_modifiedTimeWeak type="a">5.16.2026::10:50:38</_modifiedTimeWeak>
-			<_modifiedTime type="a">5.16.2026::10:58:22</_modifiedTime>
+			<_modifiedTimeWeak type="a">5.16.2026::13:40:40</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.16.2026::14:29:23</_modifiedTime>
 			<m_buildType type="a">Executable</m_buildType>
 			<m_configActive type="r">
 				<ICodeGenConfigInfoHandle type="e">
@@ -49,7 +49,7 @@
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
 			</SelectedVariants>
-			<weakCGTime type="a">5.16.2026::10:50:38</weakCGTime>
+			<weakCGTime type="a">5.16.2026::13:40:40</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<AggregatesList type="e">
 				<value>GUID c7e61a76-085c-4ad4-b1e5-48a1e28a2053</value>
@@ -96,6 +96,21 @@
 										</Properties>
 									</IPropertyMetaclass>
 									
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Operation</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">AnimAllowInvocation</_Name>
+													<_Value type="a">All</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">None, Public, Protected, All</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
 								</IRPYRawContainer>
 							</Metaclasses>
 						</IPropertySubject>
@@ -105,8 +120,8 @@
 			</IPropertyContainer>
 			</_properties>
 			<_name type="a">DefaultConfig</_name>
-			<_modifiedTimeWeak type="a">5.16.2026::10:55:14</_modifiedTimeWeak>
-			<_modifiedTime type="a">5.16.2026::10:55:14</_modifiedTime>
+			<_modifiedTimeWeak type="a">5.16.2026::13:40:40</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.16.2026::13:40:40</_modifiedTime>
 			<_scopeType type="a">Explicit</_scopeType>
 			<_instrumentation type="a">Animation</_instrumentation>
 			<_timeModel type="a">RealTime</_timeModel>
@@ -131,8 +146,8 @@
 					
 				</IRPYRawContainer>
 			</InitialInstances>
-			<weakCGTime type="a">5.16.2026::10:55:14</weakCGTime>
-			<strongCGTime type="a">5.16.2026::10:55:14</strongCGTime>
+			<weakCGTime type="a">5.16.2026::13:40:40</weakCGTime>
+			<strongCGTime type="a">5.16.2026::13:40:40</strongCGTime>
 			<AnimScopeElements type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>

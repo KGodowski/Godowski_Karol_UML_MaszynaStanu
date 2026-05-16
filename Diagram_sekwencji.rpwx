@@ -28,7 +28,7 @@
 								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
 								<m_nLeft type="a">5</m_nLeft>
 								<m_nTop type="a">27</m_nTop>
-								<m_nRight type="a">536</m_nRight>
+								<m_nRight type="a">584</m_nRight>
 								<m_nBottom type="a">474</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
@@ -41,40 +41,7 @@
 							</IHandle>
 						</_theDiagram>
 						<_UpLeft type="a">0 12813 </_UpLeft>
-						<_DownRight type="a">510 13239 </_DownRight>
-						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
-						<m_bIsActiveView type="a">0</m_bIsActiveView>
-					</CGEMdiDiagramParams>
-					
-					<CGEMdiDiagramParams type="e">
-						<_placement type="p">
-							<CCommon_WINDOWPLACEMENT type="e">
-								<m_nLength type="a">44</m_nLength>
-								<m_nFlags type="a">0</m_nFlags>
-								<m_showCmd type="a">1</m_showCmd>
-								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
-								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
-								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
-								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
-								<m_nLeft type="a">5</m_nLeft>
-								<m_nTop type="a">27</m_nTop>
-								<m_nRight type="a">536</m_nRight>
-								<m_nBottom type="a">474</m_nBottom>
-							</CCommon_WINDOWPLACEMENT>
-						</_placement>
-						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
-						<_theDiagram type="r">
-							<IHandle type="e">
-								<_hm2Class type="a">IStateChartDiagram</_hm2Class>
-								<_hfilename type="a">.\Diagram_sekwencji_rpy\Default.sbsx</_hfilename>
-								<_hsubsystem type="a">Default</_hsubsystem>
-								<_hclass type="a">BramaWjaz</_hclass>
-								<_hname type="a">StatechartDiagram</_hname>
-								<_hid type="a">GUID 331186b8-cdb7-4d01-8aad-8ffc57e7c266</_hid>
-							</IHandle>
-						</_theDiagram>
-						<_UpLeft type="a">0 10 </_UpLeft>
-						<_DownRight type="a">510 436 </_DownRight>
+						<_DownRight type="a">558 13239 </_DownRight>
 						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
@@ -91,7 +58,37 @@
 								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
 								<m_nLeft type="a">5</m_nLeft>
 								<m_nTop type="a">27</m_nTop>
-								<m_nRight type="a">536</m_nRight>
+								<m_nRight type="a">584</m_nRight>
+								<m_nBottom type="a">474</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hname type="a">Animated sequencediagram_12_0</_hname>
+								<_hid type="a">GUID 27c44715-af29-42b4-b892-6877b3e5c3d4</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">40 752 </_UpLeft>
+						<_DownRight type="a">598 1178 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<m_bIsActiveView type="a">1</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">584</m_nRight>
 								<m_nBottom type="a">474</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
@@ -106,76 +103,8 @@
 								<_hid type="a">GUID 331186b8-cdb7-4d01-8aad-8ffc57e7c266</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">510 426 </_DownRight>
-						<_instanceName type="a">Odbiornik[0]-&gt;itsBramaWjaz</_instanceName>
-						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
-						<m_bIsActiveView type="a">0</m_bIsActiveView>
-					</CGEMdiDiagramParams>
-					
-					<CGEMdiDiagramParams type="e">
-						<_placement type="p">
-							<CCommon_WINDOWPLACEMENT type="e">
-								<m_nLength type="a">44</m_nLength>
-								<m_nFlags type="a">0</m_nFlags>
-								<m_showCmd type="a">1</m_showCmd>
-								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
-								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
-								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
-								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
-								<m_nLeft type="a">5</m_nLeft>
-								<m_nTop type="a">27</m_nTop>
-								<m_nRight type="a">536</m_nRight>
-								<m_nBottom type="a">474</m_nBottom>
-							</CCommon_WINDOWPLACEMENT>
-						</_placement>
-						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
-						<_theDiagram type="r">
-							<IHandle type="e">
-								<_hm2Class type="a">IStateChartDiagram</_hm2Class>
-								<_hfilename type="a">.\Diagram_sekwencji_rpy\Default.sbsx</_hfilename>
-								<_hsubsystem type="a">Default</_hsubsystem>
-								<_hclass type="a">Odbiornik</_hclass>
-								<_hname type="a">StatechartDiagram</_hname>
-								<_hid type="a">GUID 4b427994-a8b4-41a0-b53c-92547b075a7c</_hid>
-							</IHandle>
-						</_theDiagram>
-						<_UpLeft type="a">0 -1 </_UpLeft>
-						<_DownRight type="a">510 425 </_DownRight>
-						<m_nDiagramIndex type="a">4</m_nDiagramIndex>
-						<m_bIsActiveView type="a">0</m_bIsActiveView>
-					</CGEMdiDiagramParams>
-					
-					<CGEMdiDiagramParams type="e">
-						<_placement type="p">
-							<CCommon_WINDOWPLACEMENT type="e">
-								<m_nLength type="a">44</m_nLength>
-								<m_nFlags type="a">0</m_nFlags>
-								<m_showCmd type="a">1</m_showCmd>
-								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
-								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
-								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
-								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
-								<m_nLeft type="a">5</m_nLeft>
-								<m_nTop type="a">27</m_nTop>
-								<m_nRight type="a">536</m_nRight>
-								<m_nBottom type="a">474</m_nBottom>
-							</CCommon_WINDOWPLACEMENT>
-						</_placement>
-						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
-						<_theDiagram type="r">
-							<IHandle type="e">
-								<_hm2Class type="a">IStateChartDiagram</_hm2Class>
-								<_hfilename type="a">.\Diagram_sekwencji_rpy\Default.sbsx</_hfilename>
-								<_hsubsystem type="a">Default</_hsubsystem>
-								<_hclass type="a">Odbiornik</_hclass>
-								<_hname type="a">StatechartDiagram</_hname>
-								<_hid type="a">GUID 4b427994-a8b4-41a0-b53c-92547b075a7c</_hid>
-							</IHandle>
-						</_theDiagram>
-						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">510 426 </_DownRight>
-						<_instanceName type="a">Odbiornik[0]</_instanceName>
+						<_UpLeft type="a">0 10 </_UpLeft>
+						<_DownRight type="a">558 436 </_DownRight>
 						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
@@ -192,20 +121,57 @@
 								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
 								<m_nLeft type="a">5</m_nLeft>
 								<m_nTop type="a">27</m_nTop>
-								<m_nRight type="a">536</m_nRight>
+								<m_nRight type="a">584</m_nRight>
 								<m_nBottom type="a">474</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
 						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
 						<_theDiagram type="r">
 							<IHandle type="e">
-								<_hm2Class type="a">IDiagram</_hm2Class>
-								<_hname type="a">class_diagram</_hname>
-								<_hid type="a">GUID f03a7941-8d8f-4968-8c53-acde92da7578</_hid>
+								<_hm2Class type="a">IStateChartDiagram</_hm2Class>
+								<_hfilename type="a">.\Diagram_sekwencji_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">BramaWjaz</_hclass>
+								<_hname type="a">StatechartDiagram</_hname>
+								<_hid type="a">GUID 331186b8-cdb7-4d01-8aad-8ffc57e7c266</_hid>
 							</IHandle>
 						</_theDiagram>
 						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">510 426 </_DownRight>
+						<_DownRight type="a">558 426 </_DownRight>
+						<_instanceName type="a">Odbiornik[0]-&gt;itsBramaWjaz</_instanceName>
+						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">584</m_nRight>
+								<m_nBottom type="a">474</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IStateChartDiagram</_hm2Class>
+								<_hfilename type="a">.\Diagram_sekwencji_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Odbiornik</_hclass>
+								<_hname type="a">StatechartDiagram</_hname>
+								<_hid type="a">GUID 4b427994-a8b4-41a0-b53c-92547b075a7c</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 -1 </_UpLeft>
+						<_DownRight type="a">558 425 </_DownRight>
 						<m_nDiagramIndex type="a">5</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
@@ -222,7 +188,71 @@
 								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
 								<m_nLeft type="a">5</m_nLeft>
 								<m_nTop type="a">27</m_nTop>
-								<m_nRight type="a">536</m_nRight>
+								<m_nRight type="a">584</m_nRight>
+								<m_nBottom type="a">474</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IStateChartDiagram</_hm2Class>
+								<_hfilename type="a">.\Diagram_sekwencji_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">Odbiornik</_hclass>
+								<_hname type="a">StatechartDiagram</_hname>
+								<_hid type="a">GUID 4b427994-a8b4-41a0-b53c-92547b075a7c</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">558 426 </_DownRight>
+						<_instanceName type="a">Odbiornik[0]</_instanceName>
+						<m_nDiagramIndex type="a">4</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">584</m_nRight>
+								<m_nBottom type="a">474</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hname type="a">class_diagram</_hname>
+								<_hid type="a">GUID f03a7941-8d8f-4968-8c53-acde92da7578</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">558 426 </_DownRight>
+						<m_nDiagramIndex type="a">6</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">584</m_nRight>
 								<m_nBottom type="a">474</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
@@ -235,9 +265,9 @@
 							</IHandle>
 						</_theDiagram>
 						<_UpLeft type="a">0 410 </_UpLeft>
-						<_DownRight type="a">510 836 </_DownRight>
-						<m_nDiagramIndex type="a">6</m_nDiagramIndex>
-						<m_bIsActiveView type="a">1</m_bIsActiveView>
+						<_DownRight type="a">558 836 </_DownRight>
+						<m_nDiagramIndex type="a">7</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
 				</IRPYRawContainer>

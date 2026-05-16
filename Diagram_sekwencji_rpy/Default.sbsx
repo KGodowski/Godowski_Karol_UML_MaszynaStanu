@@ -12,10 +12,10 @@
 			<_id type="a">GUID ee1de33a-1174-4fdd-8a97-a3b9fa9a976a</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Default</_name>
-			<_modifiedTimeWeak type="a">5.16.2026::13:26:42</_modifiedTimeWeak>
-			<_modifiedTime type="a">5.16.2026::13:35:38</_modifiedTime>
+			<_modifiedTimeWeak type="a">5.16.2026::13:43:22</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.16.2026::14:29:23</_modifiedTime>
 			<_lastID type="a">11</_lastID>
-			<weakCGTime type="a">5.16.2026::13:26:42</weakCGTime>
+			<weakCGTime type="a">5.16.2026::13:43:22</weakCGTime>
 			<strongCGTime type="a">5.16.2026::8:14:38</strongCGTime>
 			<_defaultComposite type="s">GUID 51fff54e-ba73-400b-8b6d-89d28d9cacb7</_defaultComposite>
 			<_eventsBaseID type="a">18601</_eventsBaseID>
@@ -1454,10 +1454,10 @@ else this-&gt;kierunek=-1;</_bodyData>
 			<_id type="a">GUID 22107bd0-d259-40e5-a4d7-5c376f12674f</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">BramaWjaz</_name>
-			<_modifiedTimeWeak type="a">5.16.2026::13:26:42</_modifiedTimeWeak>
-			<_modifiedTime type="a">5.16.2026::13:26:42</_modifiedTime>
+			<_modifiedTimeWeak type="a">5.16.2026::13:51:25</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.16.2026::13:51:25</_modifiedTime>
 			<_lastID type="a">7</_lastID>
-			<weakCGTime type="a">5.16.2026::13:26:42</weakCGTime>
+			<weakCGTime type="a">5.16.2026::13:51:25</weakCGTime>
 			<strongCGTime type="a">5.16.2026::11:32:17</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -1519,8 +1519,8 @@ else this-&gt;kierunek=-1;</_bodyData>
 			<_id type="a">GUID dbddd79c-191a-42c2-bd21-db6302f5666f</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">zamknij</_name>
-			<_modifiedTimeWeak type="a">5.16.2026::12:15:6</_modifiedTimeWeak>
-			<_modifiedTime type="a">5.16.2026::12:15:6</_modifiedTime>
+			<_modifiedTimeWeak type="a">5.16.2026::13:49:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.16.2026::13:49:57</_modifiedTime>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
 				<IRPYRawContainer type="e">
@@ -1545,8 +1545,7 @@ else this-&gt;kierunek=-1;</_bodyData>
 {%0D
 	std::cout &lt;&lt; &quot;Brama jest juz zamkniete!\n&quot;;%0D
 	%0D
-} else%0D
-{ %0D
+} else { %0D
 	std::cout &lt;&lt; &quot;Zamknieto brame!\n&quot;;%0D
 	this-&gt;pozycja = -1;%0D
 	%0D
@@ -1558,8 +1557,8 @@ else this-&gt;kierunek=-1;</_bodyData>
 			<_id type="a">GUID a355539d-3bc1-4d4b-b6a7-9bd39e2f22d6</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">otworz</_name>
-			<_modifiedTimeWeak type="a">5.16.2026::12:8:39</_modifiedTimeWeak>
-			<_modifiedTime type="a">5.16.2026::12:8:39</_modifiedTime>
+			<_modifiedTimeWeak type="a">5.16.2026::13:51:25</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.16.2026::13:51:25</_modifiedTime>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
 				<IRPYRawContainer type="e">
@@ -1582,12 +1581,11 @@ else this-&gt;kierunek=-1;</_bodyData>
 			<_itsBody type="p"><IBody type="e">
 				<_bodyData type="a">if (this-&gt;pozycja ==1)%0D
 {%0D
-	std::cout &lt;&lt; &quot;Brama jest juz otwarta:\n&quot;;%0D
+	std::cout &lt;&lt; &quot;Brama jest juz otwarta!\n&quot;;%0D
 	%0D
-} else %0D
-{%0D
+} else {%0D
 	std::cout &lt;&lt; &quot;Otworzono brame!\n&quot;;%0D
-	this-&gt;pozycja - 1;%0D
+	this-&gt;pozycja = 1;%0D
 	%0D
 }</_bodyData>
 			</IBody>
@@ -1627,13 +1625,10 @@ else this-&gt;kierunek=-1;</_bodyData>
 			<_id type="a">GUID 261dde59-b0d5-4d4e-a7f2-7d04f1d036e9</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">set_pozycja</_name>
-			<_modifiedTimeWeak type="a">5.16.2026::13:26:42</_modifiedTimeWeak>
-			<_modifiedTime type="a">5.16.2026::13:26:42</_modifiedTime>
+			<_modifiedTimeWeak type="a">5.16.2026::13:43:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.16.2026::13:43:57</_modifiedTime>
+			<_lastID type="a">1</_lastID>
 			<_virtual type="a">0</_virtual>
-			<Args type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</Args>
 			<_returnType type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -1653,7 +1648,27 @@ else this-&gt;kierunek=-1;</_bodyData>
 else if (new_pozycja == -1) this-&gt;pozycja = -1;</_bodyData>
 			</IBody>
 			</_itsBody>
+			<AggregatesList type="e">
+				<value>GUID 3d3f47bf-4f61-4f3d-92c0-b29a911b9131</value>
+			</AggregatesList>
 		</IPrimitiveOperation>
+		<IArgument type="e">
+			<_id type="a">GUID 3d3f47bf-4f61-4f3d-92c0-b29a911b9131</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">new_pozycja</_name>
+			<_modifiedTimeWeak type="a">5.16.2026::13:43:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.16.2026::13:43:57</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">int</_hname>
+					<_hid type="a">GUID 6024c6ab-fe9e-402e-954f-27aca6d3b5e4</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
 		<IAttribute type="e">
 			<_id type="a">GUID 80f35a89-8700-46f6-876d-da2a63585268</_id>
 			<_myState type="a">8192</_myState>
