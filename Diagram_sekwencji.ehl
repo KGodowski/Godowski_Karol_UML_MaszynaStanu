@@ -1,0 +1,6 @@
+[Op Calls]
+[Events]
+Odbiornik[0]->itsBramaWjaz->GEN(zamykanie())`BramaWjaz
+Odbiornik[0]->GEN(click())`Odbiornik
+Odbiornik[0]->itsBramaWjaz->GEN(otwieranie())`BramaWjaz
+[Breakpoints]
